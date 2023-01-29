@@ -1,0 +1,4 @@
+SELECT 
+	ProductID
+FROM 
+Products

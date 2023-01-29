@@ -1,0 +1,3 @@
+SELECT 
+	CategoryID
+FROM OrderDetails

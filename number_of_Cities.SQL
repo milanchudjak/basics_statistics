@@ -1,0 +1,3 @@
+SELECT
+	City 
+FROM Customers

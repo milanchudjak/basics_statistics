@@ -1,0 +1,3 @@
+SELECT 
+	OrderDetailID 
+FROM OrderDetails

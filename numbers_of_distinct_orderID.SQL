@@ -1,0 +1,3 @@
+SELECT 
+	DISTINCT OrderID 
+FROM OrderDetails
